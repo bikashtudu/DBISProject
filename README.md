@@ -11,7 +11,7 @@ Course: CS 257
 # Environment and Requirement
 - Programming Language: JAVA with  Swings
 - MySQL Conncector: MySQL JConnector 5.1.40(JDBC Driver)
-- https://dev.mysql.com/downloads/connector/j/
+  https://dev.mysql.com/downloads/connector/j/
 - IDE: NetBeans 8.1
 - MySQL Version: 5.5.4
 - MySQL WorkBench: 6.3.6+dfsg-0ubuntu1
