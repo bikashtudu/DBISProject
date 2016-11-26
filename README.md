@@ -23,7 +23,7 @@ Course: CS 257
 - /MySQL Connector: Contains JDBC/MySQL JConnnector
 
 # Instructions
-1) Clone the Project using link https://github.com/EncoSier/DBISProject.git
+1) Clone the Project using link https://github.com/EncoSier/DBISProject.git or Download the zip
 
 2) Importing Java Project in NetBeans
 - Clone the project in the NetBeans 8.1
