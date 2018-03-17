@@ -6,7 +6,7 @@ Library Management System using Java and MySQL
 Course: CS 257
 
 # Developed By
-- Bikash Kumar Tudu[tudu.bikash@gmail.com]
+- Bikash Kumar Tudu [tudu.bikash@gmail.com]
 - Piyush Kalkute
 
 # Environment and Requirement
