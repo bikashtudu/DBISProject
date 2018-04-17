@@ -48,4 +48,4 @@ Course: CS 257
 5) Database setting can be changed
 - Expand Project->Source Packages->mainlibrary->DB.java
 - Change the Authentication Setting
-
+NOTE: if any error, check closed issues too.
