@@ -49,4 +49,4 @@ Course: CS 257
 - Expand Project->Source Packages->mainlibrary->DB.java
 - Change the Authentication Setting
 
-**NOTE: if any error, check [closed issues](https://github.com/bikashtudu/DBISProject/issues?q=is%3Aissue+is%3Aclosed) closed too.**
+**NOTE: if any error, check [closed issues](https://github.com/bikashtudu/DBISProject/issues?q=is%3Aissue+is%3Aclosed) too.**
