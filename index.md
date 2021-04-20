@@ -11,4 +11,6 @@ Bikash Kumar Tudu(1006) and Piyush Kalkute(1013) are student at IIT Indore
 ### Support or Contact
 Having trouble with Pages? Check out our https://github.com/EncoSier/DBISProject/README.md
 
+<!---
 ### [Watch Video](https://www.youtube.com/watch?v=Qaw4CwGszrQ)
+-->
